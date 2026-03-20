@@ -1,0 +1,403 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+:root {
+    --rojo1: #F99A9A;
+    --rojo2: #F66D6D;
+    --rojo3: #F23939;
+    --rojo4: #DD0E0E;
+    --rojo5: #7D0808;
+    --gris1: #A8B3C4;
+    --gris2: #8292AA;
+    --gris3: #5B6B86;
+    --gris4: #384252;
+    --gris5: #242B35;
+    --verde1: #34E678;
+    --verde2: #0EDD9B;
+    --negro: #252525;
+    --blanco: #ffff;
+    --Gabarito: "Gabarito", sans-serif;
+    --RobotoFlex: "Roboto Flex", sans-serif;
+}
+
+header {
+    width: 96%;
+    padding: 2vw;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.lista {
+    width: 96%;
+    padding: 2vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.secthoriz {
+    width: 96%;
+    padding: 2vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vw;
+    gap: 1rem;
+}
+
+#cambrut{
+    flex-wrap:nowrap;
+}
+
+/*Letreros*/
+.diaF,
+.diaC {
+    background-color: var(--rojo3);
+    border: 5px solid var(--rojo4);
+    width: 80vw;
+    height: 15vw;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 5vw;
+}
+
+.diaC {
+    background-color: var(--rojo1);
+    border: 5px solid var(--rojo2);
+}
+
+.anuncioF,
+.anuncioC {
+    background-color: var(--gris2);
+    border: 5px solid var(--gris3);
+    width: 60vw;
+    height: 10vw;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 5vw;
+}
+
+.anuncioC {
+    background-color: var(--gris1);
+    border: 5px solid var(--gris2);
+
+}
+
+/* Tus clases base */
+.switcherR, .switcherG {
+    background-color: var(--rojo2);
+    border: 5px solid var(--rojo3);
+    width: 40vw;
+    height: 12vw; /* Ajusté un poco el alto para que el texto quepa bien */
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 5vw;
+    color: white; /* Color del texto */
+    transition: all 0.3s ease;
+}
+
+/* Evitar que Bootstrap sobrescriba tus estilos al estar activo */
+.nav-link.switcherR.active, 
+.nav-link.switcherG.active {
+    background-color: var(--rojo3) !important; /* Un tono más oscuro al estar seleccionado */
+    border-color: white !important;
+    color: white !important;
+}
+
+/* Quitar estilos por defecto de Bootstrap que estorben */
+.nav-link {
+    border: none;
+}
+
+.switcherG {
+    background-color: var(--gris2);
+    border: 5px solid var(--gris3);
+}
+
+
+/*Títulos y textos*/
+.titulo1 {
+    font-family: var(--Gabarito);
+    font-size: 40px;
+    color: var(--blanco);
+    text-align: center;
+}
+
+.titulo2 {
+    font-family: var(--Gabarito);
+    font-size: 30px;
+    color: var(--blanco);
+    text-align: center;
+}
+
+.titulo3 {
+    font-family: var(--Gabarito);
+    font-size: 20px;
+    color: var(--blanco);
+    text-align: center;
+}
+
+.texto1 {
+    font-family: var(--RobotoFlex);
+    color: var(--blanco);
+    font-size: 25px;
+    text-align: center;
+}
+
+.texto2 {
+    font-family: var(--RobotoFlex);
+    color: var(--blanco);
+    font-size: 20px;
+    text-align: center;
+}
+
+.texto3 {
+    font-family: var(--RobotoFlex);
+    color: var(--blanco);
+    font-size: 15px;
+    text-align: center;
+}
+
+/*imagenes e íconos*/
+.iconoImgG {
+    width: 30vw;
+    height: 28vw;
+}
+
+.iconoImgM {
+    width: 20vw;
+    height: 20vw;
+}
+
+.iconoImgC {
+    width: 17vw;
+    height: 15vw;
+}
+
+/*Tarjetas*/
+.tarjeta,
+.ejercicio,
+.ejercicioComp,
+.ejercicioSel {
+    display: flex;
+    width: max-content;
+    max-width: 100%;
+    gap: 5px;
+    padding: 8px;
+    flex-direction: column;
+    border-radius: 10px;
+    margin-top: 5vw;
+    align-items: center;
+}
+
+/*Ejercicios*/
+.ejercicio {
+    flex-direction: row;
+    padding: 4px;
+}
+
+.ejercicioComp {
+    flex-direction: row;
+    background-color: var(--verde1);
+    border: 5px solid var(--verde2);
+    padding: 4px;
+}
+
+.ejercicioSel {
+    flex-direction: row;
+    background-color: var(--rojo3);
+    border: 5px solid var(--rojo4);
+    padding: 4px;
+}
+
+
+
+/*switchers */
+.switcher-wrapper {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+
+.switcher {
+    width: 40vw;
+    height: 12vw; /* Ajusté un poco el alto para que el texto quepa bien */
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 5vw;
+    color: var(--blanco); /* Color del texto */
+    transition: all 0.3s ease;
+}
+
+/* Estado ACTIVO (Rojos) */
+.switcher.active {
+    background-color: var(--rojo2);
+    border: 5px solid var(--rojo3);
+    color: var(--blanco);
+}
+
+/* Estado INACTIVO (Grises) */
+.switcher.inactive {
+    background-color: var(--gris2);
+    border: 5px solid var(--gris3);
+    color: var(--blanco); /* Texto un poco más tenue */
+}
+
+/* Lógica para mostrar/ocultar el contenido */
+.pane {
+    display: none; /* Escondido por defecto */
+    padding: 20px;
+    text-align: center;
+}
+
+.pane.active {
+    display: block; /* Solo se ve el que tiene .active */
+}
+
+
+
+
+/*Botón*/
+.boton {
+    background-color: var(--gris4);
+    border: 5px solid var(--gris5);
+    width: 40vw;
+    height: 5vw;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 5vw;
+}
+
+/*Clases de colores*/
+.rojoClaro {
+    background-color: var(--rojo1);
+    border: 5px solid var(--rojo2);
+}
+
+.rojoFuerte {
+    background-color: var(--rojo3);
+    border: 5px solid var(--rojo4);
+}
+
+.grisClaro {
+    background-color: var(--gris1);
+    border: 5px solid var(--gris2);
+}
+
+.grisFuerte {
+    background-color: var(--gris2);
+    border: 5px solid var(--gris3);
+}
+
+/*opciones*/
+.opciones {
+    padding: 2vw;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vw;
+    gap: 1rem;
+    margin-top: 80%;
+}
+
+
+
+
+/* Estilos del menú lateral */
+.side-menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 50%; /* Ancho del menú */
+    height: 100%;
+    background-color: var(--gris3);
+    z-index: 1000;
+    transition: transform 0.3s ease; /* Animación suave */
+    transform: translateX(100%); /* Escondido a la derecha */
+    padding-top: 60px;
+}
+
+/* Clase que activa el menú */
+.side-menu.active {
+    transform: translateX(0);
+}
+
+/* Enlaces del menú */
+.side-menu a {
+    padding: 15px 25px;
+    text-decoration: none;
+    font-size: 18px;
+    color: var(--blanco);
+    display: block;
+    transition: 0.2s;
+}
+
+
+/* Botón de cerrar */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-size: 36px;
+    color: var(--gris5);
+    cursor: pointer;
+}
+
+/* Capa oscura de fondo (opcional) */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background:  rgba(0,0,0,0.7);
+    display: none;
+    z-index: 999;
+}
+
+.overlay.active {
+    display: block;
+}
+.asel{
+color: var(--gris1);
+}
+
+
+
+
+
