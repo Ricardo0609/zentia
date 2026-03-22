@@ -1,0 +1,154 @@
+[
+    {
+        "foto": "https://rossoautomobili.com/cdn/shop/articles/Ferrari_SF90_XX_-_Fiorano_4.jpg?v=1700067961",
+        "titulo": "Ferrari",
+        "texto": "",
+        "direccion":"Ferrari.html"
+    },{
+        "foto": "https://bilogmotorbloggen.no/wp-content/uploads/2023/08/Revuelto_052.jpg",
+        "titulo": "Lamborghini",
+        "texto": "",
+        "direccion":"Lamborghini.html"
+    },{
+        "foto": "https://images.pistonheads.com/nimg/46347/blobid0.jpg",
+        "titulo": "Maserati",
+        "texto": "",
+        "direccion":"Maserati.html"
+    },{
+        "foto": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2022/03/prueba-pagani-huayra-roadster-bc.jpg",
+        "titulo": "Pagani ",
+        "texto": "",
+        "direccion":"Pagani.html"
+    },{
+        "foto": "https://www.alfaromeo.mx/content/dam/alfa/mx/giulia/performance/mobile.jpg",
+        "titulo": "Alfa Romeo",
+        "texto": "",
+        "direccion":"Alfa-Romeo.html"
+    },{
+        "foto": "https://hips.hearstapps.com/hmg-prod/images/de-tomaso-p72-65a047752fcdd.jpg?crop=1.00xw:0.537xh;0,0.238xh&resize=2048:*",
+        "titulo": "De Tomaso",
+        "texto": "",
+        "direccion":"De-Tomaso.html"
+    },{
+        "foto": "https://automundo.com.ar/wp-content/uploads/2024/06/Bugatti-Tourbillon-9.jpg",
+        "titulo": "Bugatti",
+        "texto": "",
+        "direccion":"Bugatti.html"
+    },{
+        "foto": "https://s2-autoesporte.glbimg.com/bcrdW7ImZIqib1P_DUg8qWfQRAI=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/A/s/RV8rd0TSWUuAb4YXDIuw/2017-12-19-alpinedianteira.jpg",
+        "titulo": "Alpine",
+        "texto": "",
+        "direccion":"Alpine.html"
+    },{
+        "foto": "https://cdni.autocarindia.com/ExtraImages/20221028031917_12.jpg",
+        "titulo": "Porsche",
+        "texto": "",
+        "direccion":"Porsche.html"
+    },{
+        "foto": "https://mediapool.bmwgroup.com/cache/P9/201805/P90304842/P90304842-the-new-bmw-m3-cs-05-2018-600px.jpg",
+        "titulo": "BMW",
+        "texto": "",
+        "direccion":"Bmw.html"
+    },{
+        "foto": "https://media.gq.com.mx/photos/6298ed257467dfbecf4a5ffa/master/pass/Auto-Mercedes-AMG-One.jpeg",
+        "titulo": "Mercedes-Benz",
+        "texto": "",
+        "direccion":"Mercedes.html"
+    },{
+        "foto": "https://www.autopista.es/uploads/s1/79/67/47/3/audir8v10decennium201901.jpeg",
+        "titulo": "Audi",
+        "texto": "",
+        "direccion":"Audi.html"
+    },{
+        "foto": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2020/12/prueba-aston-martin-dbs-superleggera-15.jpg",
+        "titulo": "Aston Martin",
+        "texto": "",
+        "direccion":"Aston-Martin.html"
+    },{
+        "foto": "https://i.gaw.to/vehicles/photos/40/28/402887-2022-mclaren-765-lt.jpg?640x400",
+        "titulo": "Mclaren",
+        "texto": "",
+        "direccion":"Mclaren.html"
+    },{
+        "foto": "https://hips.hearstapps.com/hmg-prod/images/2024-lotus-evija-103-64bec851eed33.jpg?crop=0.484xw:0.539xh;0.316xw,0.124xh&resize=768:*",
+        "titulo": "Lotus",
+        "texto": "",
+        "direccion":"Lotus.html"
+    },{
+        "foto": "https://media.cdn-jaguarlandrover.com/api/v2/images/26218/w/680",
+        "titulo": "Jaguar",
+        "texto": "",
+        "direccion":"Jaguar.html"
+    },{
+        "foto": "https://www.autocar.co.uk/sites/autocar.co.uk/files/range-rover-sport-sv-review-2024-01-cornering-front.jpg",
+        "titulo": "Land Rover",
+        "texto": "",
+        "direccion":"Land-Rover.html"
+    },{
+        "foto": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/20-bentley-bacalar-hero-front.jpg",
+        "titulo": "Bentley",
+        "texto": "",
+        "direccion":"Bentley.html"
+    },{
+        "foto": "https://media.gq.com.mx/photos/641f391cf8c983a1859faa20/4:3/w_1661,h_1246,c_limit/P90498647_highRes_rolls-royce-black-ba%20(1).jpg",
+        "titulo": "Rolls-Royce",
+        "texto": "",
+        "direccion":"Rolls-Royce.html"
+    },{
+        "foto": "https://cdn.motor1.com/images/mgl/xNZXq/s1/4x3/superformance-and-everrati-gt40-ev-rear-corner.webp",
+        "titulo": "Ford",
+        "texto": "",
+        "direccion":"Ford.html"
+    },{
+        "foto": "https://img.remediosdigitales.com/04232f/2019-chevrolet-camaro-zl1-1le-015/840_560.jpg",
+        "titulo": "Chevrolet",
+        "texto": "",
+        "direccion":"Chevrolet.html"
+    },{
+        "foto": "https://hips.hearstapps.com/hmg-prod/images/dg023-142cl-64174ff9b3b2e.jpg",
+        "titulo": "Dodge",
+        "texto": "",
+        "direccion":"Dodge.html"
+    },{
+        "foto": "https://autoreview.ru/images/Article/1751/Article_175106_860_575.jpg",
+        "titulo": "Hennesey",
+        "texto": "",
+        "direccion":"Hennesey.html"
+    },{
+        "foto": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/bdc/dc/fotos/Tesla_Model_S_19.jpg?tf=3840x",
+        "titulo": "Tesla",
+        "texto": "",
+        "direccion":"Tesla.html"
+    },{
+        "foto": "https://acnews.blob.core.windows.net/imgnews/large/NAZ_da9fd290b1094116922994dd44ea2b8c.jpg",
+        "titulo": "Vuhl",
+        "texto": "",
+        "direccion":"Vuhl.html"
+    },{
+        "foto": "https://www.tanea.gr/wp-content/uploads/2023/11/Cupra-Formentor_VZ5-2022-1600-03-1-1024x768.jpg",
+        "titulo": "Cupra",
+        "texto": "",
+        "direccion":"Cupra.html"
+    },{
+        "foto": "https://immagini.alvolante.it/sites/default/files/styles/image_gallery_big/public/primo_contatto_galleria/2014/09/nissan-gtr-nismo-2014_13.jpg?itok=OtS3GIJz",
+        "titulo": "Nissan",
+        "texto": "",
+        "direccion":"Nissan.html"
+    },{
+        "foto": "https://soymotor.com/sites/default/files/imagenes/noticia/toyota_gr_supra_2023_1.jpg",
+        "titulo": "Toyota",
+        "texto": "",
+        "direccion":"Toyota.html"
+    },{
+        "foto": "https://www.allaccessrt.com/wp-content/uploads/2015/08/453324.jpg",
+        "titulo": "Koenigsegg",
+        "texto": "",
+        "direccion":"Koenigsegg.html"
+    },{
+        "foto": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/bdc/dc/fotos/Rimac_Nevera.jpg?tf=3840x",
+        "titulo": "Rimac",
+        "texto": "",
+        "direccion":"Rimac.html"
+    }
+    
+]
