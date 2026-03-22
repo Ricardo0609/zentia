@@ -90,3 +90,50 @@ ejercicios.forEach((elemento) => {
         }
     });
 });
+
+
+
+
+
+
+
+
+
+
+/*MARCAS*/
+
+fetch("comida.txt")
+.then(response=>response.json())
+.then(response=>response.forEach(e => {
+    let body = document.getElementById("marcas");
+
+let card = document.createElement("div");
+card.classList.add("card");
+body.appendChild(card);
+
+let img = document.createElement("img");
+img.src = e.foto;
+img.classList.add("card-img-top");
+card.appendChild(img);
+
+let cb = document.createElement("div");
+cb.classList.add("card-body");
+card.appendChild(cb);
+
+let h5 = document.createElement("h5");
+h5.classList.add("card-title");
+h5.textContent =e.titulo;
+cb.appendChild(h5);
+
+let p = document.createElement("p");
+p.classList.add("card-text");
+p.textContent = e.texto;
+cb.appendChild(p);
+
+let a = document.createElement("a");
+a.classList.add("btn");
+a.classList.add("btn-danger");
+a.href = e.direccion; 
+a.textContent = "conocer"; 
+cb.appendChild(a);
+}))
