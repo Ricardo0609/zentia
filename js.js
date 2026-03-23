@@ -100,40 +100,66 @@ ejercicios.forEach((elemento) => {
 
 
 
-/*MARCAS*/
-
+/*comidas*/
 fetch("comida.txt")
-.then(response=>response.json())
-.then(response=>response.forEach(e => {
+  .then(response => response.json())
+  .then(data => {
     let body = document.getElementById("marcas");
+    
+    // AQUÍ ESTÁ EL CAMBIO: 
+    // Usamos 'data.pollo' para entrar solo a esa lista específica
+    const categoriaSeleccionada = data.pollo; 
 
-let card = document.createElement("div");
-card.classList.add("card");
-body.appendChild(card);
+    categoriaSeleccionada.forEach(e => {
+      let card = document.createElement("div");
+      card.classList.add("tarjeta", "grisClaro");
 
-let img = document.createElement("img");
-img.src = e.foto;
-img.classList.add("card-img-top");
-card.appendChild(img);
+      let img = document.createElement("img");
+      img.src = e.foto;
+      img.classList.add("iconoImgG");
+      img.alt = ""; 
+      card.appendChild(img);
 
-let cb = document.createElement("div");
-cb.classList.add("card-body");
-card.appendChild(cb);
+      let span = document.createElement("span");
+      span.classList.add("texto3");
+      span.textContent = e.titulo;
+      card.appendChild(span);
 
-let h5 = document.createElement("h5");
-h5.classList.add("card-title");
-h5.textContent =e.titulo;
-cb.appendChild(h5);
+      body.appendChild(card);
+    });
+  })
+  .catch(error => console.error("Error al cargar los datos:", error));
 
-let p = document.createElement("p");
-p.classList.add("card-text");
-p.textContent = e.texto;
-cb.appendChild(p);
 
-let a = document.createElement("a");
-a.classList.add("btn");
-a.classList.add("btn-danger");
-a.href = e.direccion; 
-a.textContent = "conocer"; 
-cb.appendChild(a);
-}))
+
+
+
+
+  fetch("comida.txt")
+  .then(response => response.json())
+  .then(data => {
+    let body = document.getElementById("huevos");
+    
+    // AQUÍ ESTÁ EL CAMBIO: 
+    // Usamos 'data.pollo' para entrar solo a esa lista específica
+    const categoriaSeleccionada = data.huevo; 
+
+    categoriaSeleccionada.forEach(e => {
+      let card = document.createElement("div");
+      card.classList.add("tarjeta", "grisClaro");
+
+      let img = document.createElement("img");
+      img.src = e.foto;
+      img.classList.add("iconoImgG");
+      img.alt = ""; 
+      card.appendChild(img);
+
+      let span = document.createElement("span");
+      span.classList.add("texto3");
+      span.textContent = e.titulo;
+      card.appendChild(span);
+
+      body.appendChild(card);
+    });
+  })
+  .catch(error => console.error("Error al cargar los datos:", error));
