@@ -91,7 +91,7 @@ fetch("ejercicios.txt")
       const listaEjercicios = data[categoria];
 
       // Verificamos que la categoría tenga elementos
-      if (listaEjercicios.length > 0) {
+      if (listaEjercicios.length > 11) {
         
         // Elegimos un elemento al azar de este "corchete" específico
         const indiceAleatorio = Math.floor(Math.random() * listaEjercicios.length);
