@@ -64,194 +64,758 @@
   ], 
   "pechoMedio": [
     {
-      "foto": "https://app.nutrium.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM0ODgyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fd4e89cf2fe479bbd3b5bf19aa6b8ba912e47a0/omelette%20pollo%20crema.jpg",
-      "titulo": "Omelette de pollo"
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con pausa"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con pausa"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con agarre neutro"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano unilateral"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Squeeze press plano"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Aperturas planas con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Aperturas planas con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press-apertura plano"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press con recorrido corto al fallo parcial"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones clásicas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones lentas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con pausa abajo"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones explosivas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones en barra a media altura"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos sobre mancuernas para más rango"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos sobre mancuernas para más rango"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press en el suelo con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press en el suelo con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Floor squeeze press con mancuernas"
     }
   ],
   "pechoInferior": [
     {
-      "foto": "url_de_carne.jpg",
-      "titulo": "Bisteck"
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado con pausa"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado alternado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado alternado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Aperturas declinadas con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Squeeze press declinado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press unilateral declinado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado a 1.5 reps"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado a 1.5 reps"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Fondos entre superficies"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "ondos con torso inclinado al frente"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos elevadas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos elevadas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones inclinadas lentas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones en barra baja con cuerpo inclinado hacia abajo"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones tipo chest dip lean"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones tipo chest dip lean"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press en suelo con codos abiertos bajos"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press convergente declinado con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Isométrico de aducción de pecho bajo"
     }
   ],
   "dorsales": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas pronas abiertas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas pronas medias"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas cerradas pronas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Chin ups cerradas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Chin ups cerradas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas con pausa arriba"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas lentas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas escapulares"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas explosivas al pecho"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas explosivas al pecho"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Pull ups arqueras asistidas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna a una mano pegado al cuerpo"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna bilateral inclinado"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna bilateral inclinado"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna agarre neutro"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo unilateral con pausa arriba"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Pullover con mancuerna"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo invertido en barra pronado ancho"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo invertido en barra supino"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo invertido en barra supino"
     }
   ], 
   "espaldaMedia": [
     {
-      "foto": "https://cdn0.recetasgratis.net/es/posts/7/2/0/sandwich_de_pavo_y_queso_55027_paso_2_600.jpg",
-      "titulo": "Sándwich de pechuga de pavo con queso cottage"
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo con mancuerna a una mano"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo bilateral con mancuernas"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo bilateral con mancuernas"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo inclinado con agarre pronado"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo inclinado con agarre neutro"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo inclinado con agarre neutro"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo pecho apoyado"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo unilateral cruzado"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo tipo Meadows"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido en barra"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido con pausa al tocar pecho"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido agarre ancho"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido agarre medio"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido agarre medio"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "High row con mancuernas"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Rear-delt row con inclinación"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Face-pull"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Y-raise"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "T-raise"
     }
   ] ,
   "espaldaAlta": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimiento escapular en barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimiento escapular colgado en barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Dominada escapular lenta"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "High row con codos abiertos"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "High row con codos abiertos"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Reverse fly con pausa"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Trap-3 raise inclinado"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Trap-3 raise inclinado"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "T-raise con mancuernas"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "W-raise con mancuernas"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Remo invertido con codos abiertos"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Remo invertido al pecho alto"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Face pull improvisado tumbado"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Cuban raise con mancuernas ligeras"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Cuban raise con mancuernas ligeras"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Press escápular en pared con carga ligera"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Reverse snow angels boca abajo"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "sométrico de retracción escapular en barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Pull-up hold con pecho cerca de barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Pulldown escapular isométrico en barra"
     }
   ],
    "lumbar": [
     {
-      "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgMW2rJ8LDA/08-05-2023/K3W9d4K6hXJ9wA7fEu8H1683525487544.jpeg",
-      "titulo": "Tostadas de atún y aguacate"
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto rumano con mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto rumano a una pierna"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Buenos días con mancuerna al pecho"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Buenos días bilateral con dos mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Buenos días bilateral con dos mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman con pausa"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman alterno"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman alterno"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Bird dog con mancuerna ligera"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Back extension en suelo"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Back extension isométrica"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto estilo maleta unilateral"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto sumo con mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Romanian deadlift lento"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Romanian deadlift lento"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Hip extension boca abajo"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Hip extension boca abajo"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Good morning sentado con mancuerna"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Deadlift desde déficit improvisado"
     }
   ],
    "hombroFrontal": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press militar con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press militar alternado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press militar alternado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press Arnold"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press sentado con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press con pausa abajo"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press con pausa abajo"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press a 1.5 reps"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press desde suelo con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal alternada"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal martillo"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal unilateral"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal con pausa arriba"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Front raise sentado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Front raise inclinado hacia atrás"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Z-press con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Pike push ups"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Pike push ups"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Handstand lean push up asistida en pared"
     }
   ],
    "hombroLateral": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales de pie"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales sentado"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales alternadas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales unilaterales"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales con pausa arriba"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales lentas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales inclinadas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Lean-away lateral raise sujetándote de algo"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales parciales"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales 1.5 reps"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Lateral raise en plano escapular"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press amplio con mancuernas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Upright row con mancuernas moderado"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Upright row unilateral"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "High pull con mancuernas ligero"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press Arnold con énfasis lateral"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Lateral raise tumbado de lado"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Isométrico lateral a 90°"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Mecánicas laterales: completo + parciales"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Remo alto abierto ligero"
     }
   ],
    "hombroPosterior": [
     {
-      "foto": "https://sergiocalderon.com/wp-content/uploads/2025/06/Porridge-de-avena-con-yogur.jpg",
-      "titulo": "Yogur,frutas y semillas"
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros inclinados con mancuernas"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros sentado inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros con pausa arriba"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros alternados"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Reverse fly pecho apoyado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Rear delt row con codos abiertos"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Remo alto inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "W-raise inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "T-raise inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Reverse fly tumbado boca abajo"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Face pull improvisado tumbado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Remo invertido con codos abiertos"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Remo invertido al pecho alto"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Dominada escapular con codos algo abiertos"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Cuban raise ligero"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pull apart improvisado si tienes toalla con tensión manual"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Reverse snow angel"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Isométrico posterior inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "External rotation raise con mancuernas ligeras"
     }
   ],
    "bicepLarga": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl inclinado con mancuernas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl inclinado alternado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl inclinado con supinación"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl de pie con mancuernas codos atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl unilateral codo atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl martillo cruzado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl martillo alternado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl martillo inclinado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Drag curl con mancuernas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Drag curl unilateral"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups cerradas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups con pausa arriba"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups negativas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups lentas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl concentrado con hombro atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl sentado inclinado parcial estirada"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl a 1.5 inclinado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Isométrico a media flexión"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl en banco improvisado hacia atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl supinado unilateral con estiramiento total"
     }
   ],
    "bicepCorta": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "braquial": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "tricepLarga": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "tricepLateral": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "tricepMedial": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "antebrazoFlexores": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "antebrazoExtensores": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "agarre": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "abdomenSuperior": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "abdomenInferior": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "oblicuos": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "coreProfundo": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "cuadriceps": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "femorales": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "gluteoMayor": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "gluteoMedio": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "Abductores": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "pantorrillaGastrocnemio": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "pantorrillaSoleo": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "trapecioSuperior": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "trapecioMedio": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "cuello": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ]
 }
