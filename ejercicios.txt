@@ -1,0 +1,257 @@
+{
+  "pechoSuperior": [
+    {
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado con pausa abajo"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado alternado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado con agarre neutro"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado cerrado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Aperturas inclinadas con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Aperturas inclinadas con pausa en estiramiento"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Squeeze press inclinado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado unilateral"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Pullover con mancuerna enfocado en pecho alto"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones con pies elevados"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones con pies elevados y manos cerradas medias"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones con pies elevados y pausa abajo"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones explosivas con pies elevados"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones tipo pike abiertas ligeras al frente"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press guillotina inclinado con mancuernas ligero"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Apertura-press inclinado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado a 1.5 repeticiones"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Isométrico de aducción de pecho alto con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones en barra baja con pies adelantados y torso inclinado"
+    }
+  ], 
+  "pechoMedio": [
+    {
+      "foto": "https://app.nutrium.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM0ODgyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fd4e89cf2fe479bbd3b5bf19aa6b8ba912e47a0/omelette%20pollo%20crema.jpg",
+      "titulo": "Omelette de pollo"
+    }
+  ],
+  "pechoInferior": [
+    {
+      "foto": "url_de_carne.jpg",
+      "titulo": "Bisteck"
+    }
+  ],
+  "dorsales": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ], 
+  "espaldaMedia": [
+    {
+      "foto": "https://cdn0.recetasgratis.net/es/posts/7/2/0/sandwich_de_pavo_y_queso_55027_paso_2_600.jpg",
+      "titulo": "Sándwich de pechuga de pavo con queso cottage"
+    }
+  ] ,
+  "espaldaAlta": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "lumbar": [
+    {
+      "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgMW2rJ8LDA/08-05-2023/K3W9d4K6hXJ9wA7fEu8H1683525487544.jpeg",
+      "titulo": "Tostadas de atún y aguacate"
+    }
+  ],
+   "hombroFrontal": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "hombroLateral": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "hombroPosterior": [
+    {
+      "foto": "https://sergiocalderon.com/wp-content/uploads/2025/06/Porridge-de-avena-con-yogur.jpg",
+      "titulo": "Yogur,frutas y semillas"
+    }
+  ],
+   "bicepLarga": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "bicepCorta": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "braquial": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "tricepLarga": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "tricepLateral": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "tricepMedial": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "antebrazoFlexores": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "antebrazoExtensores": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "agarre": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "abdomenSuperior": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "abdomenInferior": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "oblicuos": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "coreProfundo": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "cuadriceps": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "femorales": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "gluteoMayor": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "gluteoMedio": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "Abductores": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "pantorrillaGastrocnemio": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "pantorrillaSoleo": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "trapecioSuperior": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "trapecioMedio": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+   "cuello": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ]
+}
