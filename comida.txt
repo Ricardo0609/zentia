@@ -13,6 +13,24 @@
     },{
       "foto": "https://www.lechedeflorida.com/file/267/Fluffy-Egg-Tacos-web.png",
       "titulo": "tacos de pollo y huevo"
+    },{
+      "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgICa8YQKDA/25-05-2024/cHZu09O7xx3akR04Q3aN1716663780225.jpeg",
+      "titulo": "Tostadas de pollo con queso cottage"
+    },{
+      "foto": "https://storage.googleapis.com/avena-recipes-v2/2019/10/1571783429613.jpeg",
+      "titulo": "Pechuga de pollo con arroz y frijoles"
+    },{
+      "foto": "https://www.goya.com/wp-content/uploads/2023/10/grilled-chicken-and-veggie-pasta-salad.jpg",
+      "titulo": "Pollo con pasta y verduras"
+    },{
+      "foto": "https://www.maricruzavalos.com/wp-content/uploads/2023/07/fajitas-de-pollo-recipe.jpg",
+      "titulo": "Fajitas de pollo con frijoles"
+    },{
+      "foto": "https://salroche.com/cdn/shop/articles/SAM2044_1200x1200.jpg?v=1600900246",
+      "titulo": "Enchiladas"
+    },{
+      "foto": "https://i.blogs.es/1c1a6c/lentejas-con-pollo-en-escabeche/840_560.jpg",
+      "titulo": "Pechuga de pollo con lentejas"
     }
   ], 
   "huevo": [
@@ -44,18 +62,22 @@
     {
       "foto": "https://delination.com/wp-content/uploads/2022/02/Omelette-de-espinacas-con-queso-oaxaca-1-850x550.jpg",
       "titulo": "Omelette queso Oaxaca"
+    },
+    {
+      "foto": "https://cdn3.myrealfood.app/recipes%2F0DS2IZJ7uwIT4xRZ2FhX%2Fmain.jpg?alt=media&token=da57c8c0-bc95-4d1d-b564-4af11ce61378",
+      "titulo": "Huevos con requesón y pan integral"
     }
   ],
   "verduras": [
     {
-      "foto": "url_de_carne.jpg",
-      "titulo": "Bisteck"
+      "foto": "",
+      "titulo": ""
     }
   ],
   "frutas": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ], 
   "pan": [
@@ -74,8 +96,8 @@
   ] ,
   "arroz": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "atun": [
@@ -86,18 +108,28 @@
     {
       "foto": "https://www.cocinavital.mx/wp-content/uploads/2022/06/tostadas-de-atun-con-cilantro-1.jpg",
       "titulo": "Tostadas de atún y huevo"
+    },
+    {
+      "foto": "https://www.iberiamexico.com/-/media/Project/Upfield/MultiBrand/Iberia/Assets/Recipes/Recipe-sync/20492f39-805a-4d6d-b323-7644b41ebaf4.jpg?rev=54a2061339ca46a28cdfcff76ef44c3f&w=520",
+      "titulo": "Tortitas de atún al comal con arroz"
     }
   ],
    "res": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "https://www.comiendoenla.com/wp-content/uploads/2020/03/bistec-a-la-plancha.jpg",
+      "titulo": "Bistec con papa cocida y verduras"
+    },{
+      "foto": "https://recetinas.com/wp-content/uploads/2020/03/albondigas-de-carne-con-arroz.jpg",
+      "titulo": "Albóndigas con arroz"
+    },{
+      "foto": "https://imag.bonviveur.com/picadillo-con-arroz.jpg",
+      "titulo": "Picadillo de res con arroz"
     }
   ],
    "puerco": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
    "lacteos": [
@@ -111,18 +143,21 @@
     }, {
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBwMIBSFZETmDzNLbJlWMgUsbUdc-lxUTdQ&s",
       "titulo": "Yogur griego con avena, manzana y semillas"
+    }, {
+      "foto": "",
+      "titulo": ""
     }
   ],
    "cereales": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "",
+      "titulo": ""
     }
   ],
-   "salmon": [
+   "Pescado": [
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/575.jpg?s=716x600&fit=cover&ext=webp",
+      "titulo": "Filete de pescado con puré de papa"
     }
   ],
    "postres": [
