@@ -120,3 +120,103 @@ fetch("ejercicios.txt")
   })
   .catch(error => console.error("Error al cargar los datos:", error));
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const rutinaSemana = {
+    lunes: {
+        btn: "lunbtn",
+        categorias: ["pechoSuperior", "pechoMedio", "pechoInferior", "tricepLarga", "tricepLateral", "tricepMedial", "hombroFrontal", "hombroLateral", "hombroPosterior"]
+    },
+    martes: {
+        btn: "martbtn",
+        categorias: ["dorsales", "espaldaMedia", "espaldaAlta", "lumbar", "bicepCorta", "braquial", "antebrazoFlexores", "antebrazoExtensores", "agarre"]
+    },
+    miercoles: {
+        btn: "miertbtn",
+        categorias: ["hombroFrontal", "hombroLateral", "hombroPosterior", "cuadriceps", "femorales", "gluteoMayor", "gluteoMedio", "Abductores", "pantorrillaGastrocnemio", "pantorrillaSoleo"]
+    },
+    jueves: {
+        btn: "juetbtn",
+        categorias: ["pechoSuperior", "pechoMedio", "pechoInferior", "tricepLarga", "tricepLateral", "tricepMedial", "bicepCorta", "braquial", "antebrazoFlexores", "antebrazoExtensores", "agarre"]
+    },
+    viernes: {
+        btn: "viertbtn",
+        categorias: ["dorsales", "espaldaMedia", "espaldaAlta", "lumbar", "cuadriceps", "femorales", "gluteoMayor", "gluteoMedio", "Abductores", "pantorrillaGastrocnemio", "pantorrillaSoleo"]
+    }
+};
+
+async function cargarRutina() {
+    try {
+        const response = await fetch('ejercicios.txt');
+        const data = await response.json();
+
+        Object.keys(rutinaSemana).forEach(dia => {
+            const infoDia = rutinaSemana[dia];
+            const container = document.getElementById(dia);
+
+            if (!container) {
+                console.warn(`Ojo: No se encontró el contenedor con ID: "${dia}" en el HTML.`);
+                return; 
+            }
+
+            infoDia.categorias.forEach(categoria => {
+                const listaEjercicios = data[categoria];
+                
+                if (listaEjercicios && listaEjercicios.length > 0) {
+                    // --- LÓGICA ALEATORIA ---
+                    // Generamos un índice al azar entre 0 y el total de ejercicios en esa categoría
+                    const indiceAleatorio = Math.floor(Math.random() * listaEjercicios.length);
+                    const e = listaEjercicios[indiceAleatorio];
+                    
+                    crearCard(e, container);
+                }
+            });
+            
+            const btn = document.getElementById(infoDia.btn);
+            if (btn) {
+                btn.onclick = () => container.classList.toggle('oculto');
+            } else {
+                console.warn(`Ojo: No se encontró el botón con ID: "${infoDia.btn}"`);
+            }
+        });
+
+    } catch (error) {
+        console.error("Error al cargar el archivo:", error);
+    }
+}
+
+function crearCard(ejercicio, padre) {
+    if (!padre) return;
+
+    let card = document.createElement("div");
+    card.classList.add("ejercicio", "grisClaro");
+
+    let img = document.createElement("img");
+    img.src = ejercicio.foto;
+    img.classList.add("iconoImgC");
+    img.alt = ejercicio.titulo;
+
+    let span = document.createElement("span");
+    span.classList.add("texto2");
+    span.textContent = ejercicio.titulo;
+
+    card.appendChild(img);
+    card.appendChild(span);
+    padre.appendChild(card);
+}
+
+cargarRutina();
