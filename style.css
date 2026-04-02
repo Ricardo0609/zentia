@@ -172,7 +172,8 @@ header {
     font-family: var(--RobotoFlex);
     color: var(--blanco);
     font-size: 20px;
-    text-align: center;
+    text-align: start;
+
 }
 
 .texto3 {
@@ -186,16 +187,19 @@ header {
 .iconoImgG {
     width: 30vw;
     height: 28vw;
+    border-radius: 10px;
 }
 
 .iconoImgM {
     width: 20vw;
     height: 20vw;
+     border-radius: 10px;
 }
 
 .iconoImgC {
     width: 17vw;
     height: 15vw;
+     border-radius: 10px;
 }
 
 /*Tarjetas*/
@@ -400,4 +404,16 @@ color: var(--gris1);
 
 
 
+.oculto {
+    display: none;
+}
 
+#lunes {
+    transition: opacity 0.3s ease;
+    opacity: 1;
+}
+
+#lunes.oculto {
+    opacity: 0;
+    pointer-events: none; /* Evita que se pueda interactuar mientras es invisible */
+}
